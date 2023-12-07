@@ -1,2 +1,2 @@
-Cours codé avec React puis déployer avec Netlify
+Cours codé avec React puis déployé avec Netlify
 https://main--blog-universel.netlify.app/
